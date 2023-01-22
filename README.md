@@ -85,17 +85,20 @@ Using NAND gates
 ![image](https://user-images.githubusercontent.com/119393019/213904182-cbd28e1d-4e69-4a8c-8b01-08a8bfe9f71e.png)
 
 ## Truthtable 
-https://user-images.githubusercontent.com/118707693/212377127-5be10913-2d84-4c37-b480-cfad337e0be2.png
+![image](https://user-images.githubusercontent.com/119393019/213904381-2a3258ea-d31f-4906-87e8-b6b3b7ed7e31.png)
 
 Using NOR gate
 
 ## RTL
-https://user-images.githubusercontent.com/118707693/212377203-0cd78877-485f-4b77-bf6d-5054aeef1e23.png
+![image](https://user-images.githubusercontent.com/119393019/213904366-058259af-0d64-447e-8cbc-eea9ee4ec07f.png)
+
 
 ## Timing diagram
-https://user-images.githubusercontent.com/118707693/212377263-78b618f8-736b-4afc-bb1b-83c8c7a9fb70.png
+![image](https://user-images.githubusercontent.com/119393019/213904356-675c8dec-8123-4b28-b91a-5ea38119567b.png)
+
 
 TRuth table 
-https://user-images.githubusercontent.com/118707693/212377324-4339640e-812b-4463-8fa2-1c10472d0135.png
+![image](https://user-images.githubusercontent.com/119393019/213904326-0b10fed3-a4f7-4c13-9cea-9941dc054c63.png)
+
 ## Result:
 Thus the given logic functions are implemented using NAND and NOR gates and their operations are verified using Verilog programming.
